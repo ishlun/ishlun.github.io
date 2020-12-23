@@ -1,5 +1,14 @@
 var group__rphanim =
 [
+    [ "English", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md0", [
+      [ "How to use plugin-sdk?", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md1", null ],
+      [ "Getting in touch with other developers", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md2", null ]
+    ] ],
+    [ "Русский", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md3", [
+      [ "Как использовать plugin-sdk?", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md4", null ],
+      [ "Свяжитесь с другими разработчиками", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md5", null ]
+    ] ],
+    [ "Contributors | Авторы:", "d6/d2d/md_src__r_e_a_d_m_e.html#autotoc_md6", null ],
     [ "RpHAnim Changes", "d2/d44/group__rphanimchanges.html", null ],
     [ "RpHAnimKeyFrame", "d0/da7/struct_rp_h_anim_key_frame.html", [
       [ "prevFrame", "d0/da7/struct_rp_h_anim_key_frame.html#aa8ed46d472a5ba4197f7387fd6aa5b2a", null ],
