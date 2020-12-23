@@ -1,0 +1,26 @@
+var class_c_scripts_for_brains =
+[
+    [ "AddNewScriptBrain", "dc/dbc/class_c_scripts_for_brains.html#ace6317f2c439c91f332da20138ab2e51", null ],
+    [ "AddNewStreamedScriptBrainForCodeUse", "dc/dbc/class_c_scripts_for_brains.html#acfba486b7967d43bcc8cededb2854a47", null ],
+    [ "CheckIfNewEntityNeedsScript", "dc/dbc/class_c_scripts_for_brains.html#aec0395e5181896b1c6005a7618c61bd5", null ],
+    [ "GetIndexOfScriptBrainWithThisName", "dc/dbc/class_c_scripts_for_brains.html#ad958a80de42084680c15c3c40617e055", null ],
+    [ "HasAttractorScriptBrainWithThisNameLoaded", "dc/dbc/class_c_scripts_for_brains.html#ae1472aec9825a6208a04e436ec1ec5a0", null ],
+    [ "Init", "dc/dbc/class_c_scripts_for_brains.html#abec56b222979b2050ed1d429905c12a6", null ],
+    [ "IsObjectWithinBrainActivationRange", "dc/dbc/class_c_scripts_for_brains.html#a754068e5084ef095cf481e877f6bb912", null ],
+    [ "MarkAttractorScriptBrainWithThisNameAsNoLongerNeeded", "dc/dbc/class_c_scripts_for_brains.html#a9172b10c3e2eabfa897b0842aa06008e", null ],
+    [ "RequestAttractorScriptBrainWithThisName", "dc/dbc/class_c_scripts_for_brains.html#a6eb62526177ef8891c37b265bb54a1a5", null ],
+    [ "StartAttractorScriptBrainWithThisName", "dc/dbc/class_c_scripts_for_brains.html#a92f41df6e6248fc7e594490082d6f381", null ],
+    [ "StartNewStreamedScriptBrain", "dc/dbc/class_c_scripts_for_brains.html#a0f417f5d4ad4a307a654e2ee3157ca67", null ],
+    [ "StartOrRequestNewStreamedScriptBrain", "dc/dbc/class_c_scripts_for_brains.html#a88bc6e88faf3e36af5e8b0afa63cebf7", null ],
+    [ "StartOrRequestNewStreamedScriptBrainWithThisName", "dc/dbc/class_c_scripts_for_brains.html#ad74e69bad157170d038ee9bd45431dfb", null ],
+    [ "SwitchAllObjectBrainsWithThisID", "dc/dbc/class_c_scripts_for_brains.html#aec68a0af036c0f620a7bca00fe65227b", null ],
+    [ "field_10", "dc/dbc/class_c_scripts_for_brains.html#a3462f3128a5dbf058c0d27da2563a896", null ],
+    [ "m_aScriptForBrains", "dc/dbc/class_c_scripts_for_brains.html#a22f2d93a8e6acb0abb1de930e232ec7b", null ],
+    [ "m_nAttachType", "dc/dbc/class_c_scripts_for_brains.html#a975f9f4a8743b69f5df4d5e867a268e4", null ],
+    [ "m_nIMGindex", "dc/dbc/class_c_scripts_for_brains.html#ad363937a143acb9d7b09950bf9bf0340", null ],
+    [ "m_nModelID", "dc/dbc/class_c_scripts_for_brains.html#aef8d6331f378d8eea05eed10593cd50f", null ],
+    [ "m_nPriority", "dc/dbc/class_c_scripts_for_brains.html#a8a5a0322d3952983f0aeb4a1ea340f23", null ],
+    [ "m_nType", "dc/dbc/class_c_scripts_for_brains.html#a705208c3b0480fb09e662c8c790be0ba", null ],
+    [ "Radius", "dc/dbc/class_c_scripts_for_brains.html#a46bc8ea910ee031c3213250eb37175f9", null ],
+    [ "Status", "dc/dbc/class_c_scripts_for_brains.html#aa1c34fe0580c0e5e817a014588f21341", null ]
+];

@@ -1,0 +1,45 @@
+var plugin__vc_2game__vc_2rw_2rpmatfx_8h =
+[
+    [ "RpMatFXD3D8Pipeline", "d2/dd3/plugin__vc_2game__vc_2rw_2rpmatfx_8h.html#a3a39fbbddfff20a38f20344fe10b29ee", null ],
+    [ "RpMatFXMaterialFlags", "d2/dd3/plugin__vc_2game__vc_2rw_2rpmatfx_8h.html#a982640e2ebd29400007c6e3a1836ff94", null ],
+    [ "RpMatFXD3D8Pipeline", "d3/d00/group__rpmatfxd3d8.html#gafb06cdc11bde61dad591030002dc04c1", [
+      [ "rpNAMATFXD3D8PIPELINE", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1aa6ce58ee5246344430c58caa10ed88eb", null ],
+      [ "rpMATFXD3D8ATOMICPIPELINE", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1ad1cd6737b0702b1e9a23ee8c207bb231", null ],
+      [ "rpMATFXD3D8WORLDSECTORPIPELINE", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1a0172a71a3c426f5bd57d65c0fc4eb1a8", null ],
+      [ "rpMATFXD3D8PIPELINEMAX", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1a3b586233c6c89ea997a92a933875fea1", null ],
+      [ "rpMATFXD3D8PIPELINEFORCEENUMSIZEINT", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1aaa4f4f439f43ac011355de81421db946", null ],
+      [ "rpNAMATFXD3D8PIPELINE", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1aa6ce58ee5246344430c58caa10ed88eb", null ],
+      [ "rpMATFXD3D8ATOMICPIPELINE", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1ad1cd6737b0702b1e9a23ee8c207bb231", null ],
+      [ "rpMATFXD3D8WORLDSECTORPIPELINE", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1a0172a71a3c426f5bd57d65c0fc4eb1a8", null ],
+      [ "rpMATFXD3D8PIPELINEMAX", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1a3b586233c6c89ea997a92a933875fea1", null ],
+      [ "rpMATFXD3D8PIPELINEFORCEENUMSIZEINT", "d3/d00/group__rpmatfxd3d8.html#ggafb06cdc11bde61dad591030002dc04c1aaa4f4f439f43ac011355de81421db946", null ]
+    ] ],
+    [ "RpMatFXMaterialFlags", "dd/dc1/group__rpmatfx.html#ga8c89d1ee9cbd4a20d7561b6a1c64d921", [
+      [ "rpMATFXEFFECTNULL", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a7a2aa3338d8f7390456f9dc65ec6fbdb", null ],
+      [ "rpMATFXEFFECTBUMPMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921ac7ffe13db44e4b1593c51b808e194c29", null ],
+      [ "rpMATFXEFFECTENVMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a269482cfed502e1d55c7f2acbc9b2ca6", null ],
+      [ "rpMATFXEFFECTBUMPENVMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921ac4bc447aa983a602e031bd851d6f352f", null ],
+      [ "rpMATFXEFFECTDUAL", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a04020ea272e071257944b3c6b2407480", null ],
+      [ "rpMATFXEFFECTMAX", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a9b1b880b8009ee47c05c98ddcd062d06", null ],
+      [ "rpMATFXNUMEFFECTS", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a5af0fe1544f841967a260081cc8b0125", null ],
+      [ "rpMATFXFORCEENUMSIZEINT", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a808e3c34f6ec4d46b4e9329176372da1", null ],
+      [ "rpMATFXEFFECTNULL", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a7a2aa3338d8f7390456f9dc65ec6fbdb", null ],
+      [ "rpMATFXEFFECTBUMPMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921ac7ffe13db44e4b1593c51b808e194c29", null ],
+      [ "rpMATFXEFFECTENVMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a269482cfed502e1d55c7f2acbc9b2ca6", null ],
+      [ "rpMATFXEFFECTBUMPENVMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921ac4bc447aa983a602e031bd851d6f352f", null ],
+      [ "rpMATFXEFFECTDUAL", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a04020ea272e071257944b3c6b2407480", null ],
+      [ "rpMATFXEFFECTUVTRANSFORM", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a42bf85e07e3f8c99183e17808b67c865", null ],
+      [ "rpMATFXEFFECTDUALUVTRANSFORM", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a53500338296f93c0457d825e3fabc078", null ],
+      [ "rpMATFXEFFECTMAX", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a9b1b880b8009ee47c05c98ddcd062d06", null ],
+      [ "rpMATFXNUMEFFECTS", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a5af0fe1544f841967a260081cc8b0125", null ],
+      [ "rpMATFXFORCEENUMSIZEINT", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a808e3c34f6ec4d46b4e9329176372da1", null ],
+      [ "rpMATFXEFFECTNULL", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a7a2aa3338d8f7390456f9dc65ec6fbdb", null ],
+      [ "rpMATFXEFFECTBUMPMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921ac7ffe13db44e4b1593c51b808e194c29", null ],
+      [ "rpMATFXEFFECTENVMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a269482cfed502e1d55c7f2acbc9b2ca6", null ],
+      [ "rpMATFXEFFECTBUMPENVMAP", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921ac4bc447aa983a602e031bd851d6f352f", null ],
+      [ "rpMATFXEFFECTDUAL", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a04020ea272e071257944b3c6b2407480", null ],
+      [ "rpMATFXEFFECTMAX", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a9b1b880b8009ee47c05c98ddcd062d06", null ],
+      [ "rpMATFXNUMEFFECTS", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a5af0fe1544f841967a260081cc8b0125", null ],
+      [ "rpMATFXFORCEENUMSIZEINT", "dd/dc1/group__rpmatfx.html#gga8c89d1ee9cbd4a20d7561b6a1c64d921a808e3c34f6ec4d46b4e9329176372da1", null ]
+    ] ]
+];

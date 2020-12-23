@@ -1,0 +1,26 @@
+var classinjector_1_1game__version__manager =
+[
+    [ "game_version_manager", "d3/d72/classinjector_1_1game__version__manager.html#a3f55c2539300e267ba79e67611ef80ae", null ],
+    [ "Clear", "d3/d72/classinjector_1_1game__version__manager.html#ac16494aeb81b540a7e1ac0467aa4a69f", null ],
+    [ "Detect", "d3/d72/classinjector_1_1game__version__manager.html#aa29710b1263cdc13595012d563361cc3", null ],
+    [ "GetGame", "d3/d72/classinjector_1_1game__version__manager.html#a1acc2074900cbedca2d5a359274c5da2", null ],
+    [ "GetMajorRevisionVersion", "d3/d72/classinjector_1_1game__version__manager.html#a2f5f73716994ff9b00b47ba14ce70559", null ],
+    [ "GetMajorVersion", "d3/d72/classinjector_1_1game__version__manager.html#a4525313a159ac09f8aad29c7bb7dec5e", null ],
+    [ "GetMinorRevisionVersion", "d3/d72/classinjector_1_1game__version__manager.html#a4f0fdaad94c96886650d0e7d94fcdd40", null ],
+    [ "GetMinorVersion", "d3/d72/classinjector_1_1game__version__manager.html#aae232e341eb81dbe8d96fb1c07f19569", null ],
+    [ "GetRegion", "d3/d72/classinjector_1_1game__version__manager.html#aa1d1232e5a464f34f2db2605781455ad", null ],
+    [ "GetVersionText", "d3/d72/classinjector_1_1game__version__manager.html#a053cf365d9580fe3a793a97f4ad8ea0f", null ],
+    [ "IsEFLC", "d3/d72/classinjector_1_1game__version__manager.html#a2215ef1ac9e6f37bfe12bf983f32debc", null ],
+    [ "IsEU", "d3/d72/classinjector_1_1game__version__manager.html#ada71369f0f00abcf2c95e0107b4ef82f", null ],
+    [ "IsHoodlum", "d3/d72/classinjector_1_1game__version__manager.html#a6ea78eb3b3dbe27893de010d7b7bd8be", null ],
+    [ "IsIII", "d3/d72/classinjector_1_1game__version__manager.html#a2f8a2ee699da4dfaf46209eb6f9bbbde", null ],
+    [ "IsIV", "d3/d72/classinjector_1_1game__version__manager.html#ac6db971c8aeeab8f530ff6bc04448ba7", null ],
+    [ "IsSA", "d3/d72/classinjector_1_1game__version__manager.html#acc741477a4052716b1c82a61776c2828", null ],
+    [ "IsSteam", "d3/d72/classinjector_1_1game__version__manager.html#a4e9e0a428d890da750ca8d9acef92498", null ],
+    [ "IsUnknown", "d3/d72/classinjector_1_1game__version__manager.html#af5eede89df3823a65578c48659169fd3", null ],
+    [ "IsUS", "d3/d72/classinjector_1_1game__version__manager.html#a58048ed4be096096745ef2fb163267a6", null ],
+    [ "IsVC", "d3/d72/classinjector_1_1game__version__manager.html#af85afbaca2dee39030a608d4e1b9ff48", null ],
+    [ "RaiseCouldNotDetect", "d3/d72/classinjector_1_1game__version__manager.html#a614303cc21e1557dac87cd1ba935b8a3", null ],
+    [ "RaiseIncompatibleVersion", "d3/d72/classinjector_1_1game__version__manager.html#a3d9e63b30ab40d3a9c7240c96edf116d", null ],
+    [ "PluginName", "d3/d72/classinjector_1_1game__version__manager.html#ad02175eafb9f0a393dc4a3a164689ea7", null ]
+];

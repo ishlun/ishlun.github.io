@@ -1,0 +1,25 @@
+var class_c_task_complex_enter_car =
+[
+    [ "CTaskComplexEnterCar", "db/dee/class_c_task_complex_enter_car.html#a26d689f327ab6fcb367110e6183db8b3", null ],
+    [ "CTaskComplexEnterCar", "db/dee/class_c_task_complex_enter_car.html#ae0e2914bc529ba89bbd0c788e05c5f56", null ],
+    [ "m_bAsDriver", "db/dee/class_c_task_complex_enter_car.html#a981ff8e0ce860c6970ee4a56986324c7", null ],
+    [ "m_bCarryOnAfterFallingOff", "db/dee/class_c_task_complex_enter_car.html#a963beae044aaae9c348f75b37d401c0d", null ],
+    [ "m_bIsAborting", "db/dee/class_c_task_complex_enter_car.html#aa83236e376a8f6283f68f01a217678b9", null ],
+    [ "m_bQuitAfterDraggingPedOut", "db/dee/class_c_task_complex_enter_car.html#af16eb27595e7f335e7bd7ef8e7e5f92a", null ],
+    [ "m_bQuitAfterOpeningDoor", "db/dee/class_c_task_complex_enter_car.html#addab3a25a97f080f8e800cf148958f73", null ],
+    [ "m_fCruiseSpeed", "db/dee/class_c_task_complex_enter_car.html#ab108be2771f44297f0eb8e2c096d3e35", null ],
+    [ "m_nCamMovementChoice", "db/dee/class_c_task_complex_enter_car.html#a86c0b9ba4b1f33d8b027ebe1311ad3dc", null ],
+    [ "m_nDoorFlagsSet", "db/dee/class_c_task_complex_enter_car.html#aae73af9d8e364e638bda538ece1e7254", null ],
+    [ "m_nDraggedPedDownTime", "db/dee/class_c_task_complex_enter_car.html#a071865c7c37b1eb5a3781cf57650c3ad", null ],
+    [ "m_nEnterCarStartTime", "db/dee/class_c_task_complex_enter_car.html#aa3c90f877c3b0f586e2b08a28dd4b538", null ],
+    [ "m_nFlags", "db/dee/class_c_task_complex_enter_car.html#ade590579bc0519d0da2a1a4f481930ac", null ],
+    [ "m_nMoveState", "db/dee/class_c_task_complex_enter_car.html#a52d7d2e68c1bedbf83ab0bc0ba20d7bd", null ],
+    [ "m_nNumGettingInSet", "db/dee/class_c_task_complex_enter_car.html#a4b5468b32c977f45372185f55c8c0bcb", null ],
+    [ "m_nTargetDoor", "db/dee/class_c_task_complex_enter_car.html#afc14db74d48f09096b3edf3f4c3c80de", null ],
+    [ "m_nTargetDoorOppositeToFlag", "db/dee/class_c_task_complex_enter_car.html#a0e62c283193c6883353fc8ede5a32973", null ],
+    [ "m_nTargetSeat", "db/dee/class_c_task_complex_enter_car.html#afe191da31d7d13cd64a239597bbf3d5e", null ],
+    [ "m_pDraggedPed", "db/dee/class_c_task_complex_enter_car.html#a2f11e774692ff392da3a3126784ca4ec", null ],
+    [ "m_pTargetVehicle", "db/dee/class_c_task_complex_enter_car.html#a0e473ba4733428c8796ffd3d25a3cb90", null ],
+    [ "m_pTaskUtilityLineUpPedWithCar", "db/dee/class_c_task_complex_enter_car.html#a4ecfc830e50d25672b66f85d0301eb97", null ],
+    [ "m_vTargetDoorPos", "db/dee/class_c_task_complex_enter_car.html#add18f9bed9c115cb6007e9feaf7eb443", null ]
+];

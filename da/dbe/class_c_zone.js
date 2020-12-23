@@ -1,0 +1,28 @@
+var class_c_zone =
+[
+    [ "GetTranslatedName", "da/dbe/class_c_zone.html#ae46d1856072363839ffd2a3a420f6b1b", null ],
+    [ "GetTranslatedName", "da/dbe/class_c_zone.html#ab55dd844902d1b0d28bccdd679043da6", null ],
+    [ "GetTranslatedName", "da/dbe/class_c_zone.html#ab55dd844902d1b0d28bccdd679043da6", null ],
+    [ "_zoneExtraIndexInfo", "da/dbe/class_c_zone.html#a0e2119c5b35be1b6c89b94c1d8255417", null ],
+    [ "m_fX1", "da/dbe/class_c_zone.html#a2355969b5387424b79de7d9f985c7387", null ],
+    [ "m_fX2", "da/dbe/class_c_zone.html#aa81ee481ac93db486ccab233e4d7a576", null ],
+    [ "m_fY1", "da/dbe/class_c_zone.html#a3825c047f5cf59fd5ef2d4e7b0bd98f8", null ],
+    [ "m_fY2", "da/dbe/class_c_zone.html#a016adb6f07680480559c3ab08ef51f3d", null ],
+    [ "m_fZ1", "da/dbe/class_c_zone.html#a0fcfbe23d7620a7fecbd38837ad7882d", null ],
+    [ "m_fZ2", "da/dbe/class_c_zone.html#a53968a6b088f1f51596badd49c6f90d0", null ],
+    [ "m_nLevel", "da/dbe/class_c_zone.html#aafa69eda71ab7f414526a07551dbf7c3", null ],
+    [ "m_nType", "da/dbe/class_c_zone.html#ad33177cf574933f81aaab0c9257e7528", null ],
+    [ "m_nZoneExtraIndexInfo", "da/dbe/class_c_zone.html#a1f53310d2319a680da7730d04bff0b9e", null ],
+    [ "m_szLabel", "da/dbe/class_c_zone.html#a1f0a6e4876f60205f3e5a3d9c11345a3", null ],
+    [ "m_szTextKey", "da/dbe/class_c_zone.html#a02b69483eb0afc771081a1c9f27a6501", null ],
+    [ "name", "da/dbe/class_c_zone.html#ab315783c3528f149b870dbc814a8c1db", null ],
+    [ "text", "da/dbe/class_c_zone.html#a834913780d890cfcc777183565bc2c67", null ],
+    [ "townNumber", "da/dbe/class_c_zone.html#ae6a5dc9fa62813256d722fe591a6c636", null ],
+    [ "type", "da/dbe/class_c_zone.html#aa5647c5c3b4fb9bb24093137ad6ac731", null ],
+    [ "x1", "da/dbe/class_c_zone.html#a5836d58b6553822fba82da33f28d2f2a", null ],
+    [ "x2", "da/dbe/class_c_zone.html#a61ea86a68f49959b671c1f839d65179b", null ],
+    [ "y1", "da/dbe/class_c_zone.html#a1b45b0d41c5ec969c3d72bf20de67ead", null ],
+    [ "y2", "da/dbe/class_c_zone.html#a88c7a715e9edc8da1606fadd3e43f7a9", null ],
+    [ "z1", "da/dbe/class_c_zone.html#a5c9656f1db7976350530114463f4a347", null ],
+    [ "z2", "da/dbe/class_c_zone.html#a720cc2e1c92918d89ccfa90859050e5f", null ]
+];

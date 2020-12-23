@@ -1,0 +1,27 @@
+var class_c_registered_shadow =
+[
+    [ "CRegisteredShadow", "d9/dc5/class_c_registered_shadow.html#ab1995579c8db5fbbc7dfb4bdc2d9662e", null ],
+    [ "bDrawOnBuildings", "d9/dc5/class_c_registered_shadow.html#af820eb176df1563920e926c3e3328924", null ],
+    [ "bDrawOnWater", "d9/dc5/class_c_registered_shadow.html#a6dda0de5c68a5ea2b9e80b95467e6b4a", null ],
+    [ "bIgnoreMapObjects", "d9/dc5/class_c_registered_shadow.html#aba563675d81c7804bdacc38a79fcb12e", null ],
+    [ "m_bShadowType", "d9/dc5/class_c_registered_shadow.html#a1295bf32adb91b1b628aea7954b7e59a", null ],
+    [ "m_fFrontX", "d9/dc5/class_c_registered_shadow.html#a82a04302c69412b6960b27cf5b5ae897", null ],
+    [ "m_fFrontY", "d9/dc5/class_c_registered_shadow.html#ac3458ef8fce5fa15ca0808fc8140d5b1", null ],
+    [ "m_fScale", "d9/dc5/class_c_registered_shadow.html#a138c41395ff5abe25381142fd83cde3b", null ],
+    [ "m_fSideX", "d9/dc5/class_c_registered_shadow.html#a2754cf7f68488f61227e7bf81415ce9a", null ],
+    [ "m_fSideY", "d9/dc5/class_c_registered_shadow.html#ac2cc1e33277896f709f921e86b04bbc2", null ],
+    [ "m_fZDistance", "d9/dc5/class_c_registered_shadow.html#a2e587260b354b0ac6031b23df9b63d8a", null ],
+    [ "m_nBlue", "d9/dc5/class_c_registered_shadow.html#a335313ce1c230f82afa11dac74b5d14e", null ],
+    [ "m_nFlags", "d9/dc5/class_c_registered_shadow.html#a7e59c84c7f998d6fca2d5955b0c42f78", null ],
+    [ "m_nFlags", "d9/dc5/class_c_registered_shadow.html#acd08ef444eb05e0fbdffe5bf7811b9c9", null ],
+    [ "m_nGreen", "d9/dc5/class_c_registered_shadow.html#ab4098831915f680b721e35b59b128187", null ],
+    [ "m_nIntensity", "d9/dc5/class_c_registered_shadow.html#aeac690e13342c749d68f40dff200b6e3", null ],
+    [ "m_nRed", "d9/dc5/class_c_registered_shadow.html#addb065728fd5b77b25ef7d675b9c35d6", null ],
+    [ "m_nType", "d9/dc5/class_c_registered_shadow.html#a2754a1f42b2b5e8fa1b5ca9cee08fbc6", null ],
+    [ "m_pRTShadow", "d9/dc5/class_c_registered_shadow.html#a7334098287cb4b30b7c4596b8129ceeb", null ],
+    [ "m_pTexture", "d9/dc5/class_c_registered_shadow.html#aa92cf8506d8f40ecdffed5c40160e6af", null ],
+    [ "m_vec2dFront", "d9/dc5/class_c_registered_shadow.html#ade58df202831b96762a4b731b988f21e", null ],
+    [ "m_vec2dSide", "d9/dc5/class_c_registered_shadow.html#a320d281f2933f0f121f50c4e0f309329", null ],
+    [ "m_vecPos", "d9/dc5/class_c_registered_shadow.html#a14d98402e6887e5549af7752421e0568", null ],
+    [ "m_vecPosn", "d9/dc5/class_c_registered_shadow.html#a91854296978ec60a51d63d671e879108", null ]
+];

@@ -1,0 +1,28 @@
+var structt_script_text =
+[
+    [ "_pad", "d7/d73/structt_script_text.html#a64f6933d282651eaaa45c969a267e4ab", null ],
+    [ "_pad_25", "d7/d73/structt_script_text.html#aa8f27804b58e2339e48e0cfd9204e88e", null ],
+    [ "_pad_26", "d7/d73/structt_script_text.html#ae606fb3b1db1f0a12b3ae7c893e6270f", null ],
+    [ "_pad_27", "d7/d73/structt_script_text.html#a708f4cfc0decb0a8667396893df3a34e", null ],
+    [ "backgroundBoxColor", "d7/d73/structt_script_text.html#a06a944e93561646beef775384049c9a2", null ],
+    [ "backgroundColor", "d7/d73/structt_script_text.html#a6659e6788f69029d1abb3c441199bd0c", null ],
+    [ "centered", "d7/d73/structt_script_text.html#a69b2b8c9bd1ab8bbc869dd1be4bdd462", null ],
+    [ "color", "d7/d73/structt_script_text.html#ae05f96cd94bf00286ccbdfd79b34ef99", null ],
+    [ "font", "d7/d73/structt_script_text.html#a85b3d4df7c752e3d4d027e88201f56bd", null ],
+    [ "gxtEntry", "d7/d73/structt_script_text.html#aa1027287d132f0b418bb2d1ed4afc8f9", null ],
+    [ "letterHeight", "d7/d73/structt_script_text.html#a72d5c54b148953d4ea24ca3ff5a00955", null ],
+    [ "letterWidth", "d7/d73/structt_script_text.html#af9176df6b235ad30b829bbaf1f804eea", null ],
+    [ "lineHeight", "d7/d73/structt_script_text.html#a912ffeeb4f871e4fec6048f9600eaae0", null ],
+    [ "lineWidth", "d7/d73/structt_script_text.html#ad68455a42ce0f04b3b537cb83cbd1802", null ],
+    [ "m_bDrawBeforeFade", "d7/d73/structt_script_text.html#aa1df05070fbec91cb25e2e85f775e8f6", null ],
+    [ "m_bJustify", "d7/d73/structt_script_text.html#a3bff5d6f9bebadf46a040ab71bf4a642", null ],
+    [ "m_bRightJustify", "d7/d73/structt_script_text.html#afc53dae9ef352741ab164c50a5b72c85", null ],
+    [ "outlineType", "d7/d73/structt_script_text.html#a0359461a375c78d9fa7f970b2c054636", null ],
+    [ "param1", "d7/d73/structt_script_text.html#a7461dc81990cc4008d184d0d65c1241b", null ],
+    [ "param2", "d7/d73/structt_script_text.html#ae38c8923def7b1541026a6e416c0666c", null ],
+    [ "proportional", "d7/d73/structt_script_text.html#a6b932d912937b28ff5ceea3cf086722e", null ],
+    [ "shadowType", "d7/d73/structt_script_text.html#a428e00460238d47dca5d48d5026a3427", null ],
+    [ "withBackground", "d7/d73/structt_script_text.html#ae028cf2e85eaf22508bf8b4dc7b571dc", null ],
+    [ "xPosition", "d7/d73/structt_script_text.html#a28fedf0fb9972a4db0cf33a416fa56b6", null ],
+    [ "yPosition", "d7/d73/structt_script_text.html#aac7850cf3e9d31cceb8284763e77d9a7", null ]
+];

@@ -1,0 +1,27 @@
+var class_c_task_complex_prostitute_solicit =
+[
+    [ "CTaskComplexProstituteSolicit", "d9/d5b/class_c_task_complex_prostitute_solicit.html#ad7c71304dbdc8a70bdcb2efdf24ab51f", null ],
+    [ "CTaskComplexProstituteSolicit", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a7a30025a6c1474267cae12920eeda009", null ],
+    [ "CreateSubTask", "d9/d5b/class_c_task_complex_prostitute_solicit.html#af36494bc46bd901eaf407d5719729d24", null ],
+    [ "b07", "d9/d5b/class_c_task_complex_prostitute_solicit.html#ac2c0b64491b4fb45de036d45c00f559f", null ],
+    [ "b08", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a8bc6b28ac77f961558165dcaede650c4", null ],
+    [ "b10", "d9/d5b/class_c_task_complex_prostitute_solicit.html#ab22d139d6705e6fb45deed40f56679f1", null ],
+    [ "bCopsCanSeeThis", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a2421b32069de1af45f14cb3384b02eb1", null ],
+    [ "bMoveCameraDown", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a94236064af004926aac6d0c560d54ef4", null ],
+    [ "bPedsCanPotentiallySeeThis", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a38ca6b4f27d4741c1858c7f1b1990152", null ],
+    [ "bPedsCanSeeThis", "d9/d5b/class_c_task_complex_prostitute_solicit.html#ae25a965d89bf0064752e5fff60efd3b9", null ],
+    [ "bPlayerHasAcceptedSexProposition", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a57f83460109c66b74aa027372587c88c", null ],
+    [ "bSearchingForSecludedPlace", "d9/d5b/class_c_task_complex_prostitute_solicit.html#aa9d3c6264d72a882f53d702dfc9dc729", null ],
+    [ "bSecludedPlaceMessageShown", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a1a531571992a5d6ed871fd44f3b824e9", null ],
+    [ "bSexProcessStarted", "d9/d5b/class_c_task_complex_prostitute_solicit.html#ad0f2b37921743dea5ab3bf61de00705d", null ],
+    [ "bTaskCanBeFinished", "d9/d5b/class_c_task_complex_prostitute_solicit.html#aa0dc09a1ab8cc088bc2fee9ec3c290b4", null ],
+    [ "bVehicleShifted", "d9/d5b/class_c_task_complex_prostitute_solicit.html#acf7c69aad8a1cdee3f55558d5056a9df", null ],
+    [ "m_nCurrentTimer", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a76ef01b8ecaeb5fcbf5c7c216dbd354f", null ],
+    [ "m_nFlags", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a750f12f6c8cd95af079d323da4013a64", null ],
+    [ "m_nLastPaymentTime", "d9/d5b/class_c_task_complex_prostitute_solicit.html#af04aa91f2d49c7df2b024536c173defc", null ],
+    [ "m_nLastSavedTime", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a21edee2e6d849af211de5dd9691a9064", null ],
+    [ "m_nNextTimeToCheckForSecludedPlace", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a8225de830a7124f09ac4de717f34a93d", null ],
+    [ "m_nVehicleMovementTimer", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a0453c19e581ca5b9f0c91e4737df98b6", null ],
+    [ "m_pClient", "d9/d5b/class_c_task_complex_prostitute_solicit.html#a55f8dbd933e60f84396bdd0905d10015", null ],
+    [ "m_vecVehiclePosn", "d9/d5b/class_c_task_complex_prostitute_solicit.html#add5e9bf9669b80b7eae7a8277139c458", null ]
+];

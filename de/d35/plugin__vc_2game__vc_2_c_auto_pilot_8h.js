@@ -1,0 +1,46 @@
+var plugin__vc_2game__vc_2_c_auto_pilot_8h =
+[
+    [ "CAutoPilot", "df/d82/class_c_auto_pilot.html", "df/d82/class_c_auto_pilot" ],
+    [ "eCarDrivingStyle", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597", [
+      [ "DRIVINGSTYLE_STOP_FOR_CARS", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597af537b34fe82f5b3c7c8fa1caae1f73c5", null ],
+      [ "DRIVINGSTYLE_SLOW_DOWN_FOR_CARS", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597ab7e378f1b2a3da7e3f98bf8cbf1e811c", null ],
+      [ "DRIVINGSTYLE_AVOID_CARS", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597a52a0e889e7761b615d058574af017998", null ],
+      [ "DRIVINGSTYLE_PLOUGH_THROUGH", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597af6b35fb33d3887cb8a74a06d6f98fb73", null ],
+      [ "DRIVINGSTYLE_STOP_FOR_CARS_IGNORE_LIGHTS", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597a938d9cc5f4a49890ee1bb96fef2c307c", null ],
+      [ "DRIVINGSTYLE_STOP_FOR_CARS", "d3/d51/plugin__sa_2game__sa_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597af537b34fe82f5b3c7c8fa1caae1f73c5", null ],
+      [ "DRIVINGSTYLE_SLOW_DOWN_FOR_CARS", "d3/d51/plugin__sa_2game__sa_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597ab7e378f1b2a3da7e3f98bf8cbf1e811c", null ],
+      [ "DRIVINGSTYLE_AVOID_CARS", "d3/d51/plugin__sa_2game__sa_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597a52a0e889e7761b615d058574af017998", null ],
+      [ "DRIVINGSTYLE_PLOUGH_THROUGH", "d3/d51/plugin__sa_2game__sa_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597af6b35fb33d3887cb8a74a06d6f98fb73", null ],
+      [ "DRIVINGSTYLE_STOP_FOR_CARS_IGNORE_LIGHTS", "d3/d51/plugin__sa_2game__sa_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597a938d9cc5f4a49890ee1bb96fef2c307c", null ],
+      [ "DRIVINGSTYLE_STOP_FOR_CARS", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597af537b34fe82f5b3c7c8fa1caae1f73c5", null ],
+      [ "DRIVINGSTYLE_SLOW_DOWN_FOR_CARS", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597ab7e378f1b2a3da7e3f98bf8cbf1e811c", null ],
+      [ "DRIVINGSTYLE_AVOID_CARS", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597a52a0e889e7761b615d058574af017998", null ],
+      [ "DRIVINGSTYLE_PLOUGH_THROUGH", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597af6b35fb33d3887cb8a74a06d6f98fb73", null ],
+      [ "DRIVINGSTYLE_STOP_FOR_CARS_IGNORE_LIGHTS", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aed092477f5f8b66eb861e5d2d4dc7597a938d9cc5f4a49890ee1bb96fef2c307c", null ]
+    ] ],
+    [ "eCarTempAction", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206", [
+      [ "TEMPACT_NONE", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206af8b3c025f252138bd7c17cf13e4a0401", null ],
+      [ "TEMPACT_WAIT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206aa1f57464f309f92969cee2825ef8b899", null ],
+      [ "TEMPACT_REVERSE", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a7acbc167c96b3feb45173ca876cc8a6b", null ],
+      [ "TEMPACT_HANDBRAKETURNLEFT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a6cba978588d1859bdd18cd24e418f5c1", null ],
+      [ "TEMPACT_HANDBRAKETURNRIGHT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a7e0dbac5255f79f237df9638ac0dd951", null ],
+      [ "TEMPACT_HANDBRAKESTRAIGHT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206ad1aca58b2039ffc1848799592c4c1357", null ],
+      [ "TEMPACT_TURNLEFT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206af5d9abce3d5b2c1cf6bba4bf70b51171", null ],
+      [ "TEMPACT_TURNRIGHT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a2531c89d145e565e1235e620ea669062", null ],
+      [ "TEMPACT_GOFORWARD", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a8577d880da215f92ba223bf3a887ba9b", null ],
+      [ "TEMPACT_SWERVELEFT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a451398e43d99f252a2c696eef68f105d", null ],
+      [ "TEMPACT_SWERVERIGHT", "d1/d88/plugin___i_i_i_2game___i_i_i_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a92105439968167f784a94cc5fd6be37a", null ],
+      [ "TEMPACT_NONE", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206af8b3c025f252138bd7c17cf13e4a0401", null ],
+      [ "TEMPACT_WAIT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206aa1f57464f309f92969cee2825ef8b899", null ],
+      [ "TEMPACT_REVERSE", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a7acbc167c96b3feb45173ca876cc8a6b", null ],
+      [ "TEMPACT_HANDBRAKETURNLEFT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a6cba978588d1859bdd18cd24e418f5c1", null ],
+      [ "TEMPACT_HANDBRAKETURNRIGHT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a7e0dbac5255f79f237df9638ac0dd951", null ],
+      [ "TEMPACT_HANDBRAKESTRAIGHT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206ad1aca58b2039ffc1848799592c4c1357", null ],
+      [ "TEMPACT_TURNLEFT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206af5d9abce3d5b2c1cf6bba4bf70b51171", null ],
+      [ "TEMPACT_TURNRIGHT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a2531c89d145e565e1235e620ea669062", null ],
+      [ "TEMPACT_GOFORWARD", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a8577d880da215f92ba223bf3a887ba9b", null ],
+      [ "TEMPACT_SWERVELEFT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a451398e43d99f252a2c696eef68f105d", null ],
+      [ "TEMPACT_SWERVERIGHT", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#a47aa218200323a55861b571ff9537206a92105439968167f784a94cc5fd6be37a", null ]
+    ] ],
+    [ "VALIDATE_SIZE", "de/d35/plugin__vc_2game__vc_2_c_auto_pilot_8h.html#aab4eeff9c3708ce99deb1f8631fdf052", null ]
+];

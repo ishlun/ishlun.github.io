@@ -1,0 +1,27 @@
+var class_c_task_simple_swim =
+[
+    [ "CTaskSimpleSwim", "db/d34/class_c_task_simple_swim.html#a97ce91081a3b00fb5c00dbf246e174fe", null ],
+    [ "CTaskSimpleSwim", "db/d34/class_c_task_simple_swim.html#ad3190c05187416d2365163af222875ec", null ],
+    [ "flt_24", "db/d34/class_c_task_simple_swim.html#a34d8dd7e363725f67297e3c3f2798454", null ],
+    [ "flt_28", "db/d34/class_c_task_simple_swim.html#a56f5f4a951d5c759f3afc942fdbcdd32", null ],
+    [ "flt_2C", "db/d34/class_c_task_simple_swim.html#add177dfce98aa0543e62e2982c8d2713", null ],
+    [ "flt_30", "db/d34/class_c_task_simple_swim.html#a2025432d6cc19ffefba0fa072536e6f3", null ],
+    [ "flt_34", "db/d34/class_c_task_simple_swim.html#a7e5b933c80ba2f738a9577cb3bc4927a", null ],
+    [ "flt_50", "db/d34/class_c_task_simple_swim.html#aaee0b87fc2725e223e54bdfdf0b00330", null ],
+    [ "flt_54", "db/d34/class_c_task_simple_swim.html#ab21caa36fa79a7d15317323b34584f80", null ],
+    [ "m_AnimID", "db/d34/class_c_task_simple_swim.html#a6ac4d44707003e441da59788a644b743", null ],
+    [ "m_bAnimBlockRefAdded", "db/d34/class_c_task_simple_swim.html#a02213dab363003dbf0d7cbd8984ec193", null ],
+    [ "m_bFinishedBlending", "db/d34/class_c_task_simple_swim.html#a70979d5593c0aae28051517065427f0c", null ],
+    [ "m_bTriggerWaterSplash", "db/d34/class_c_task_simple_swim.html#a68ac0698a58328010801001f0940409d", null ],
+    [ "m_fAngle", "db/d34/class_c_task_simple_swim.html#afac9e9bc5588512ba7c401f9882e05e7", null ],
+    [ "m_fAnimSpeed", "db/d34/class_c_task_simple_swim.html#a2388a0928be17eaf11bda11d661d9598", null ],
+    [ "m_nProcessTimeCounter", "db/d34/class_c_task_simple_swim.html#ac52d88bb59e4b986d07082d20576498e", null ],
+    [ "m_nSurfaceType", "db/d34/class_c_task_simple_swim.html#a0791786c367a4923dc06e7af0da9341b", null ],
+    [ "m_nSwimState", "db/d34/class_c_task_simple_swim.html#a4fc3e866677f2d935f209bf7b7e3ce7e", null ],
+    [ "m_pClimbPos", "db/d34/class_c_task_simple_swim.html#a58fbefb996f0df7955ed3db33b85691c", null ],
+    [ "m_pEntity", "db/d34/class_c_task_simple_swim.html#a0ba9d6e344ef9a2df8452b35cd2bf585", null ],
+    [ "m_pFxSystem", "db/d34/class_c_task_simple_swim.html#aaeb2b9f04223721884e1518a23c319d8", null ],
+    [ "m_pPed", "db/d34/class_c_task_simple_swim.html#ade6d083879c4d7a70e7435a37fa61ec7", null ],
+    [ "m_vecPos", "db/d34/class_c_task_simple_swim.html#ab025cb72ebb74a23fe4eef45ceb341ab", null ],
+    [ "pad2", "db/d34/class_c_task_simple_swim.html#a34dfc6ad5fdacdeab7f7c461a9cd7014", null ]
+];

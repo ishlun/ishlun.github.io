@@ -1,0 +1,25 @@
+var class_c_task_manager =
+[
+    [ "CTaskManager", "d5/d92/class_c_task_manager.html#a59bd5aab8201e371cd339f45829dabbf", null ],
+    [ "~CTaskManager", "d5/d92/class_c_task_manager.html#a1dbb9a1f5c524abf63548f706acc5410", null ],
+    [ "AddSubTasks", "d5/d92/class_c_task_manager.html#af4703a31154e635b153e6b98b6289be5", null ],
+    [ "ClearTaskEventResponse", "d5/d92/class_c_task_manager.html#ac1473a4ae6f93d71e98195db78dfe32d", null ],
+    [ "FindActiveTaskByType", "d5/d92/class_c_task_manager.html#a729a68160661cf6c9e26f2fabb5e0df8", null ],
+    [ "FindTaskByType", "d5/d92/class_c_task_manager.html#aba1d5f0eabff29096a5c446db18a0040", null ],
+    [ "Flush", "d5/d92/class_c_task_manager.html#aeab88895c7ff982b33ad79a706401316", null ],
+    [ "FlushImmediately", "d5/d92/class_c_task_manager.html#ac4d8485d51d95f915f1e13d7eb4945f0", null ],
+    [ "GetActiveTask", "d5/d92/class_c_task_manager.html#a726fddaaaeb13c03d1beb8cae2c4fd2e", null ],
+    [ "GetSimplestActiveTask", "d5/d92/class_c_task_manager.html#a73fad8811f02f6130011e104e6b98be8", null ],
+    [ "GetSimplestTask", "d5/d92/class_c_task_manager.html#a10109fa782a3bc2795b7811b6b218fd6", null ],
+    [ "GetTaskSecondary", "d5/d92/class_c_task_manager.html#a7555e6df58efd294d85cd6dfb5846e01", null ],
+    [ "HasTaskSecondary", "d5/d92/class_c_task_manager.html#a1df69c7d30002afaeb2988c842f688db", null ],
+    [ "ManageTasks", "d5/d92/class_c_task_manager.html#ada8243c2c7ad15d4a8bdb28fef6d94df", null ],
+    [ "ParentsControlChildren", "d5/d92/class_c_task_manager.html#acdfaf4dcc6f039b88f9aeff3017e20a8", null ],
+    [ "SetNextSubTask", "d5/d92/class_c_task_manager.html#a637bbbbcb4ca05fb6430a22becf948d7", null ],
+    [ "SetTask", "d5/d92/class_c_task_manager.html#ab36c80ddc433fa570f6104e128eb21df", null ],
+    [ "SetTaskSecondary", "d5/d92/class_c_task_manager.html#a5f2d569b3cdc974f43d5d5b1ea3b083d", null ],
+    [ "StopTimers", "d5/d92/class_c_task_manager.html#abf6a63724cbfb2c4bd3c711caa9c4c66", null ],
+    [ "m_aPrimaryTasks", "d5/d92/class_c_task_manager.html#a3d684135ec49929e94b2a83a156ef0c2", null ],
+    [ "m_aSecondaryTasks", "d5/d92/class_c_task_manager.html#a811d34da3068b56d25c0f317ac3f2b29", null ],
+    [ "m_pPed", "d5/d92/class_c_task_manager.html#a65ddf2f38f453a8575e7656e287f063e", null ]
+];

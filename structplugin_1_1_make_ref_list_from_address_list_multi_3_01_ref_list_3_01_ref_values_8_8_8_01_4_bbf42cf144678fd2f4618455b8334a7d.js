@@ -1,0 +1,4 @@
+var structplugin_1_1_make_ref_list_from_address_list_multi_3_01_ref_list_3_01_ref_values_8_8_8_01_4_bbf42cf144678fd2f4618455b8334a7d =
+[
+    [ "type", "structplugin_1_1_make_ref_list_from_address_list_multi_3_01_ref_list_3_01_ref_values_8_8_8_01_4_bbf42cf144678fd2f4618455b8334a7d.html#a86efa5e06aeed05979c576dd04dd3052", null ]
+];

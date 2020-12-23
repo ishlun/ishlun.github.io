@@ -1,0 +1,27 @@
+var class_c_cutscene_shadow =
+[
+    [ "CCutsceneShadow", "dc/d1f/class_c_cutscene_shadow.html#a1f232530f06d5a8974589fd62ca21951", null ],
+    [ "~CCutsceneShadow", "dc/d1f/class_c_cutscene_shadow.html#a0dfe66460069a24fd3926c31b786a9d1", null ],
+    [ "Create", "dc/d1f/class_c_cutscene_shadow.html#a059a6a133c6c0b57bfa59996b7125181", null ],
+    [ "DrawBorderAroundTexture", "dc/d1f/class_c_cutscene_shadow.html#a13bc118a98e1fa96d7d7680bf61531c5", null ],
+    [ "GetShadowCamera", "dc/d1f/class_c_cutscene_shadow.html#ad3183397e3154972804c4e3c0e5a41b8", null ],
+    [ "GetShadowRwTexture", "dc/d1f/class_c_cutscene_shadow.html#affb94e569216c7c2ba50cf97ac819d51", null ],
+    [ "IsInitialized", "dc/d1f/class_c_cutscene_shadow.html#acc9f913e79c4fb0036578b48c8108f82", null ],
+    [ "SetLightProperties", "dc/d1f/class_c_cutscene_shadow.html#adf688cab96ccc18a12ad8c74fc6d2225", null ],
+    [ "Update", "dc/d1f/class_c_cutscene_shadow.html#ac014512ca01d9ea5fa13132a92f7552e", null ],
+    [ "UpdateForCutscene", "dc/d1f/class_c_cutscene_shadow.html#aa1eeddcea65f75c2f93de20377b12a9a", null ],
+    [ "_pad0", "dc/d1f/class_c_cutscene_shadow.html#a54ea8df37c43f055fb6a63a85440521a", null ],
+    [ "_pad1", "dc/d1f/class_c_cutscene_shadow.html#a8b9c3fc7dbce3f815e63459c0b0a05bc", null ],
+    [ "m_BaseSphere", "dc/d1f/class_c_cutscene_shadow.html#ac3cfab3dd13834a9b5abdcffcc83689b", null ],
+    [ "m_bGradient", "dc/d1f/class_c_cutscene_shadow.html#ac8e92c8f070a22e973f2261736e2536d", null ],
+    [ "m_BlurCamera", "dc/d1f/class_c_cutscene_shadow.html#ac357e7d1e13faaea71fde21d0dfd427c", null ],
+    [ "m_BoundingSphere", "dc/d1f/class_c_cutscene_shadow.html#af151e2c1d7f31c8f566d8bcb8aa98da0", null ],
+    [ "m_bResample", "dc/d1f/class_c_cutscene_shadow.html#a3027423e0506ed3d65dcd3fea3fc41bc", null ],
+    [ "m_Camera", "dc/d1f/class_c_cutscene_shadow.html#a30888fd6ce34b75c5c21ba4d0a50a6a8", null ],
+    [ "m_GradientCamera", "dc/d1f/class_c_cutscene_shadow.html#a15436a8d02c15f4bd96229c3ebede7ff", null ],
+    [ "m_nBlurPasses", "dc/d1f/class_c_cutscene_shadow.html#ae312f37e784cf5c34b013fa2cd27583d", null ],
+    [ "m_nRwObjectType", "dc/d1f/class_c_cutscene_shadow.html#a44416ac72563a061e7f7be86d005b2a6", null ],
+    [ "m_pAtomic", "dc/d1f/class_c_cutscene_shadow.html#aec490dc3ee4645a4219f419e4e20359e", null ],
+    [ "m_pLight", "dc/d1f/class_c_cutscene_shadow.html#ab0bbe2e45ee7406561ce9c4fe41aa07f", null ],
+    [ "m_ResampleCamera", "dc/d1f/class_c_cutscene_shadow.html#a2442d39e1ed77b3e28d4d430dcacde1e", null ]
+];

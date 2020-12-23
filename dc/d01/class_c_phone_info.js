@@ -1,0 +1,26 @@
+var class_c_phone_info =
+[
+    [ "FindNearestFreePhone", "dc/d01/class_c_phone_info.html#ae2aeada0bbdeec41b745f9ea7aa64253", null ],
+    [ "FindNearestFreePhone", "dc/d01/class_c_phone_info.html#a9089f8986db47c93f6d1629a4b7b7014", null ],
+    [ "GrabPhone", "dc/d01/class_c_phone_info.html#adaec64dc4d268edcc39083e3eafb2897", null ],
+    [ "GrabPhone", "dc/d01/class_c_phone_info.html#af8de42921387e162ed78f3d430cd705f", null ],
+    [ "HasMessageBeenDisplayed", "dc/d01/class_c_phone_info.html#a09791cc7952483a3b598a69af145a08b", null ],
+    [ "Initialise", "dc/d01/class_c_phone_info.html#ab2648012abc7b80d2236cbab1a2935e1", null ],
+    [ "Initialise", "dc/d01/class_c_phone_info.html#a0658de0036815d3420dbeb68dcbe5dff", null ],
+    [ "IsMessageBeingDisplayed", "dc/d01/class_c_phone_info.html#ae2b0f8b31f5f3561e5ab6f55c3268d37", null ],
+    [ "Load", "dc/d01/class_c_phone_info.html#a74d80356faef7b35a87a0e24847a09bf", null ],
+    [ "Load", "dc/d01/class_c_phone_info.html#a9c72784217cf00927c1830f09125c3c7", null ],
+    [ "PhoneAtThisPosition", "dc/d01/class_c_phone_info.html#ab72b01f8021c1b63dc62f173048bab0e", null ],
+    [ "Save", "dc/d01/class_c_phone_info.html#a78b670bf05b47a6ea44d6c8c7673beb5", null ],
+    [ "Save", "dc/d01/class_c_phone_info.html#aad7b5bf1a157177648c33925f05a2a9a", null ],
+    [ "SetPhoneMessage_JustOnce", "dc/d01/class_c_phone_info.html#a31bf92bd51906cdc0238a0fc68498e6e", null ],
+    [ "SetPhoneMessage_JustOnce", "dc/d01/class_c_phone_info.html#a9aff097efd937b7fe29d984cc9f1bb43", null ],
+    [ "SetPhoneMessage_Repeatedly", "dc/d01/class_c_phone_info.html#a0e858952f7acc5ea85884f67eec72466", null ],
+    [ "Shutdown", "dc/d01/class_c_phone_info.html#a3e04b31f8c5814a30a9433f4ea3ab41f", null ],
+    [ "Shutdown", "dc/d01/class_c_phone_info.html#a7f2410688937c4c76675b89a9da71087", null ],
+    [ "Update", "dc/d01/class_c_phone_info.html#a849f604a19d20d7b133646282b92bd36", null ],
+    [ "Update", "dc/d01/class_c_phone_info.html#a42380d39cfd87764fee52b07323d6a9f", null ],
+    [ "m_aPhones", "dc/d01/class_c_phone_info.html#a54c58728a8ec0a82757149441cdcc15c", null ],
+    [ "m_nFirstFreeIndex", "dc/d01/class_c_phone_info.html#a4fea0dff0beb0d0cd9525144839c7ab9", null ],
+    [ "m_nTotalPhones", "dc/d01/class_c_phone_info.html#a8c1274b15ed6e2747d2352cfbcbc56e2", null ]
+];
